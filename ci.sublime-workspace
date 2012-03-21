@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"this"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"br",
+				"braces"
+			],
+			[
+				"ba",
+				"background	background-color: hex"
+			],
+			[
+				"he",
+				"header	<header>"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"font",
+				"font	font-size: size"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Prefixr.py",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/USERS/AMITAVA/APPDATA/LOCAL/TEMP/wzeb62/NETTUTS-How-to-Write-a-Sublime-Text-Plugin-01e18d8/Prefixr-1.py",
+			"settings":
+			{
+				"buffer_size": 848,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/AAAPackageDev/Support/Json to tmLanguage.sublime-build",
+	"command_palette":
+	{
+		"height": 286.0,
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"htmlsta",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gist a",
+				"Gist: Add File to Gist"
+			],
+			[
+				"gist",
+				"Gist: Add File to Gist"
+			],
+			[
+				"hello",
+				"Snippet: hello"
+			],
+			[
+				"gist O",
+				"Gist: Open Gist"
+			],
+			[
+				"Gist: c",
+				"Gist: Create Private Gist"
+			],
+			[
+				"sn",
+				"Set Syntax: PHP"
+			],
+			[
+				"F",
+				"Fetch"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"Fe",
+				"Fetch"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Li",
+				"Package Control: List Packages"
+			],
+			[
+				"gI",
+				"Gist: Open Gist"
+			],
+			[
+				"g",
+				"Gist: Open Gist"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: do",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/htdocs/ci/application/controllers/site.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"application/views/home.php",
+		"application/models/site_model.php",
+		"application/controllers/site.php",
+		"/E/htdocs/ci/application/config/database.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/HTML5/Elements/Forms/input type=button.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/HTML5/htmlstart.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/HTML5/Elements/html.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/testsnip.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/testsnip.sublimesnippet",
+		"/E/htdocs/ci/application/views/home.php",
+		"/E/htdocs/ci/application/models/site_model.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Sublime Snippets (Raw).JSON-tmlanguage",
+		"/E/htdocs/ci/application/views/about.php",
+		"/E/htdocs/ci/application/config/routes.php",
+		"/E/htdocs/ci/application/config/config.php",
+		"/E/htdocs/ci/application/config/autoload.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/ci-snippets/model.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/ci-snippets/view.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/htdocs/ci/application/controllers/welcome.php",
+		"/E/htdocs/ci/application/controllers/blog",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Text/hello.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/SCSS/property%3Aname.tmPreferences",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/SCSS/Snippets/++ Shortcut to @extend.tmSnippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/SCSS/comments.tmPreferences",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Gist/Gist.sublime-commands",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Gist/Context.sublime-menu",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Text/lorem.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Prefixr.py",
+		"/E/htdocs/ci21/application/controllers/helloworld.php",
+		"/E/htdocs/ci21/application/controllers/welcome.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/E/htdocs/projq/part01/jquery.js",
+		"/E/htdocs/projq/part01/jquery-1.7.1-min.js",
+		"/E/htdocs/projq/part01/jquery-1.7.js",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Nettuts+ Fetch/Default.sublime-commands",
+		"/E/htdocs/projq/part01/mystyles.css",
+		"/C/Program Files/WANdisco/Subversion/Apache2/conf/httpd.conf",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/E/htdocs/projq/part01/styles.css",
+		"/E/doskey.cmd",
+		"/G/Downloads/TortoiseSVN.sublime-package",
+		"/E/htdocs/jqueryui/interactions.html",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default (Windows).sublime-keymap",
+		"/E/Users/Amitava/Documents/styles.css",
+		"/E/htdocs/phpmyadmin/scripts/create_tables.sql",
+		"/E/Users/Amitava/Documents/zentest.html",
+		"/E/htdocs/jqueryui/interactionsHover.html",
+		"/E/htdocs/zfmanual/en/introduction.html",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/HTML5/DOCTYPE HTML.sublime-snippet",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/HTML5/html5.sublime-snippet",
+		"/E/vhosts/prophp/script_1_8.php",
+		"/C/php/php.ini",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auto",
+			"save",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Prefixr.py",
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/USERS/AMITAVA/APPDATA/LOCAL/TEMP/wzeb62/NETTUTS-How-to-Write-a-Sublime-Text-Plugin-01e18d8/Prefixr-1.py",
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"s",
+				"/E/Users/Amitava/Documents/styles.css"
+			],
+			[
+				"sc",
+				"/E/vhosts/prophp/script_1_8.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
